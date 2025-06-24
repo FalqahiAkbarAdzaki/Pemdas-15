@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "PrakPemdas15", "index.html", [
+    [ "Documentation Circular Queues", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
